@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @hhofund
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript and Frontend
-- 💞️ I’m looking to collaborate on game
+-  Hi, I’m @hhofund
+-  I’m interested in coding
+-  I’m currently learning Javascript, Vue.js and Node.js
 
 
 <!---
